@@ -11,8 +11,7 @@ While onboarding, I made this amazing Octocat:
 ![octocat-1733936653588](https://github.com/user-attachments/assets/3b95b3cc-6027-4bf1-a742-f8761baf8e97)
 
 ### 🛠️ Skills
-- **Programming Languages:** Python, JavaScript, Java, Kotlin
-- **Web Development:** HTML, CSS, PHP, Node.js
+- **Languages & Frameworks:** Python, JavaScript, Java, Kotlin, PHP, HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
 ### 🌱 Interests
