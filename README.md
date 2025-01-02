@@ -13,7 +13,7 @@ Originally educated in the humanities, I taught EFL abroad for many years 🌏. 
     <tr>
         <td>
             <a href="https://www.credly.com/go/3YautmIh">
-                <img src="ghfoundations.png" alt="ghfoundations cert image" />
+                <img src="gh-foundations.png" alt="ghfoundations cert image" />
             </a>
         </td>
         <td>
@@ -22,9 +22,41 @@ Originally educated in the humanities, I taught EFL abroad for many years 🌏. 
     </tr>
 </table>
 
+
 ### 🛠️ Skills
 - **Languages & Frameworks:** Python, JavaScript, Java, Kotlin, PHP, HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
+
+### Certifications
+<table>
+    <tr>
+        <td>
+            <img src="gh-foundations.png" alt="gh-foundations" width="100" />
+        </td>
+        <td>
+            <img src="kcna.png" alt="kcna" width="100" />
+        </td>
+        <td>
+            <img src="ccp.png" alt="ccp" width="100"/>
+        </td>
+        <td>
+            <img src="capm.png" alt="capm" width="100"/>
+        </td>
+        <td>
+            <img src="linux.png" alt="linux" width="100"/>
+        </td>
+        <td>
+            <img src="acc.png" alt="acc" width="100"/>
+            <p>Software Testing<p>
+        </td>
+        <td>
+            <img src="acc.png" alt="acc" width="100"/>
+            <p>Web Development<p>
+        </td>
+    </tr>
+</table>
+
+
 
 ### 🌱 Interests
 **Family:** Married, 13 y.o. daughter 👧, 10 y.o. son 👦
