@@ -18,11 +18,16 @@ Seeking the following certifications currently:
 - **Languages & Frameworks:** Python, JavaScript, Java, Kotlin, PHP, HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
+![alt text](image.png)
+
 ### Certifications
 <table>
     <tr>
         <td>
             <img src="gh-foundations.png" alt="gh-foundations" width="100" />
+        </td>
+        <td>
+            <img src="actions.png" alt="actions" width="100" />
         </td>
         <td>
             <img src="kcna.png" alt="kcna" width="100" />
