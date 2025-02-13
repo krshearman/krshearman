@@ -18,7 +18,7 @@ Seeking the following certifications currently:
 - **Languages & Frameworks:** Python, JavaScript, Java, Kotlin, PHP, HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
-### Certifications
+### 🎓 Certifications Awarded
 <table>
     <tr>
         <td>
