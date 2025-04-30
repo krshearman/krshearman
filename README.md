@@ -11,7 +11,7 @@ Originally educated in the humanities, I taught EFL abroad for many years 🌏. 
 ![octocat-1733936653588](https://github.com/user-attachments/assets/3b95b3cc-6027-4bf1-a742-f8761baf8e97) -->
 Seeking the following certifications currently:
 - 📌 GitHub Administration
-- 🛡️ GitHub Advanced Security
+- 🛡️ GitHub Advanced Security![alt text](image.png)
 
 ### 🛠️ Skills
 - **Languages & Frameworks:** Python, JavaScript, Java, Kotlin, PHP, HTML, CSS, Node.js
@@ -21,16 +21,16 @@ Seeking the following certifications currently:
 <table>
     <tr>
         <td>
-            <img src="gh-foundations.png" alt="gh-foundations" width="200" />
+            <img src="gh-foundations-cert.png" alt="gh-foundations" width="200" />
         </td>
         <td>
-            <img src="actions.png" alt="actions" width="200" />
+            <img src="gh-actions.png" alt="actions" width="200" />
         </td>
         <td>
             <img src="copilot.png" alt="copilot" width="200" />
         </td>
         <td>
-            <img src="kcna.png" alt="kcna" width="200" />
+            <img src="kcna.png" alt="kcna" width="200" />![alt text](image.png)
         </td>
         <td>
             <img src="ccp.png" alt="ccp" width="200"/>
