@@ -21,13 +21,13 @@ Seeking the following certifications currently:
 <table>
     <tr>
         <td>
+            <img src="copilot.png" alt="copilot" width="200" />
+        </td>
+        <td>
             <img src="gh-foundations.png" alt="gh-foundations" width="200" />
         </td>
         <td>
             <img src="actions.png" alt="actions" width="200" />
-        </td>
-        <td>
-            <img src="copilot.png" alt="copilot" width="160" />
         </td>
         <td>
             <img src="kcna.png" alt="kcna" width="200" />
