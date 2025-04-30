@@ -21,35 +21,35 @@ Seeking the following certifications currently:
 <table>
     <tr>
         <td>
-            <img src="copilot.png" alt="copilot" width="200" />
+            <img src="copilot.png" alt="copilot" width="200" height="200" />
         </td>
         <td>
-            <img src="gh-foundations.png" alt="gh-foundations" width="200" />
+            <img src="gh-foundations.png" alt="gh-foundations" width="200" height="200" />
         </td>
         <td>
-            <img src="actions.png" alt="actions" width="200" />
+            <img src="actions.png" alt="actions" width="200" height="200" />
         </td>
         <td>
-            <img src="kcna.png" alt="kcna" width="200" />
+            <img src="kcna.png" alt="kcna" width="200" height="200" />
         </td>
         <td>
-            <img src="ccp.png" alt="ccp" width="200"/>
+            <img src="ccp.png" alt="ccp" width="200" height="200" />
         </td>
     </tr>
     <tr>
         <td>
-            <img src="capm.png" alt="capm" width="200"/>
+            <img src="capm.png" alt="capm" width="200" height="200" />
         </td>
         <td>
-            <img src="linux.png" alt="linux" width="200"/>
+            <img src="linux.png" alt="linux" width="200" height="200" />
         </td>
         <td>
-            <img src="acc.png" alt="acc" width="200"/>
-            <p>Software Testing<p>
+            <img src="acc.png" alt="acc" width="200" height="200" />
+            <p>Software Testing</p>
         </td>
         <td>
-            <img src="acc.png" alt="acc" width="200"/>
-            <p>Web Development<p>
+            <img src="acc.png" alt="acc" width="200" height="200" />
+            <p>Web Development</p>
         </td>
     </tr>
 </table>
