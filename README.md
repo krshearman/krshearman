@@ -18,41 +18,18 @@ Seeking the following certifications currently:
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
 ### 🎓 Certifications Awarded
-<table>
-    <tr>
-    <td>
-            <img src="copilot.png" alt="copilot" width="200" />
-        </td>
-        <td>
-            <img src="gh-foundations.png" alt="gh-foundations" width="200" />
-        </td>
-        <td>
-            <img src="actions.png" alt="actions" width="200" />
-        </td>
-        <td>
-            <img src="kcna.png" alt="kcna" width="200" />
-        </td>
-        <td>
-            <img src="ccp.png" alt="ccp" width="200"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="capm.png" alt="capm" width="200"/>
-        </td>
-        <td>
-            <img src="linux.png" alt="linux" width="200"/>
-        </td>
-        <td>
-            <img src="acc.png" alt="acc" width="200"/>
-            <p>Software Testing<p>
-        </td>
-        <td>
-            <img src="acc.png" alt="acc" width="200"/>
-            <p>Web Development<p>
-        </td>
-    </tr>
-</table>
+
+| Certification       | Badge                                                                 |
+|---------------------|----------------------------------------------------------------------|
+| GitHub Foundations  | <img src="gh-foundations.png" alt="gh-foundations" width="100" height="100"> |
+| GitHub Actions      | <img src="actions.png" alt="actions" width="100" height="100">       |
+| GitHub Copilot             | <img src="copilot.png" alt="copilot" width="100" height="100">       |
+| KCNA                | <img src="kcna.png" alt="kcna" width="100" height="100">             |
+| CCP                 | <img src="ccp.png" alt="ccp" width="100" height="100">               |
+| CAPM                | <img src="capm.png" alt="capm" width="100" height="100">             |
+| Linux               | <img src="linux.png" alt="linux" width="100" height="100">           |
+| Software Testing    | <img src="acc.png" alt="acc" width="100" height="100">               |
+| Web Development     | <img src="acc.png" alt="acc" width="100" height="100">               |
 
 ### 🌱 Interests
 **Family:** Married, 13 y.o. daughter 👧, 10 y.o. son 👦
