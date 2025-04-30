@@ -21,10 +21,10 @@ Seeking the following certifications currently:
 <table>
     <tr>
         <td>
-            <img src="gh-foundations-cert.png" alt="gh-foundations" width="200" />
+            <img src="gh-foundations.png" alt="gh-foundations" width="200" />
         </td>
         <td>
-            <img src="gh-actions.png" alt="actions" width="200" />
+            <img src="actions.png" alt="actions" width="200" />
         </td>
         <td>
             <img src="copilot.png" alt="copilot" width="200" />
