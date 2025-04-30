@@ -18,44 +18,41 @@ Seeking the following certifications currently:
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
 ### 🎓 Certifications Awarded
-<!-- Ensure Bootstrap is included in your project -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-
-<div class="container">
-    <div class="row text-center">
-        <div class="col">
-            <img src="copilot.png" alt="copilot" class="img-fluid" style="max-width: 200px; height: auto;" />
-        </div>
-        <div class="col">
-            <img src="gh-foundations.png" alt="gh-foundations" class="img-fluid" style="max-width: 200px; height: auto;" />
-        </div>
-        <div class="col">
-            <img src="actions.png" alt="actions" class="img-fluid" style="max-width: 200px; height: auto;" />
-        </div>
-        <div class="col">
-            <img src="kcna.png" alt="kcna" class="img-fluid" style="max-width: 200px; height: auto;" />
-        </div>
-        <div class="col">
-            <img src="ccp.png" alt="ccp" class="img-fluid" style="max-width: 200px; height: auto;" />
-        </div>
-    </div>
-    <div class="row text-center mt-3">
-        <div class="col">
-            <img src="capm.png" alt="capm" class="img-fluid" style="max-width: 200px; height: auto;" />
-        </div>
-        <div class="col">
-            <img src="linux.png" alt="linux" class="img-fluid" style="max-width: 200px; height: auto;" />
-        </div>
-        <div class="col">
-            <img src="acc.png" alt="acc" class="img-fluid" style="max-width: 200px; height: auto;" />
-            <p>Software Testing</p>
-        </div>
-        <div class="col">
-            <img src="acc.png" alt="acc" class="img-fluid" style="max-width: 200px; height: auto;" />
-            <p>Web Development</p>
-        </div>
-    </div>
-</div>
+<table>
+    <tr>
+        <td>
+            <img src="copilot.png" alt="copilot" width="200" />
+        </td>
+        <td>
+            <img src="gh-foundations.png" alt="gh-foundations" width="200" />
+        </td>
+        <td>
+            <img src="actions.png" alt="actions" width="200" />
+        </td>
+        <td>
+            <img src="kcna.png" alt="kcna" width="200" />
+        </td>
+        <td>
+            <img src="ccp.png" alt="ccp" width="200"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="capm.png" alt="capm" width="200"/>
+        </td>
+        <td>
+            <img src="linux.png" alt="linux" width="200"/>
+        </td>
+        <td>
+            <img src="acc.png" alt="acc" width="200"/>
+            <p>Software Testing<p>
+        </td>
+        <td>
+            <img src="acc.png" alt="acc" width="200"/>
+            <p>Web Development<p>
+        </td>
+    </tr>
+</table>
 
 ### 🌱 Interests
 **Family:** Married, 13 y.o. daughter 👧, 10 y.o. son 👦
