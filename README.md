@@ -20,7 +20,7 @@ Seeking the following certifications currently:
 ### 🎓 Certifications Awarded
 <table>
     <tr>
-        <td>
+    <td>
             <img src="copilot.png" alt="copilot" width="200" />
         </td>
         <td>
