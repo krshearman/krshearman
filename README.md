@@ -21,53 +21,35 @@ Seeking the following certifications currently:
 <table>
     <tr>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="copilot.png" alt="copilot" style="width: 100%; height: 100%; object-fit: contain;" />
-            </div>
+            <img src="copilot.png" alt="copilot" width="200" />
         </td>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="gh-foundations.png" alt="gh-foundations" style="width: 100%; height: 100%; object-fit: contain;" />
-            </div>
+            <img src="gh-foundations.png" alt="gh-foundations" width="200" />
         </td>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="actions.png" alt="actions" style="width: 100%; height: 100%; object-fit: contain;" />
-            </div>
+            <img src="actions.png" alt="actions" width="200" />
         </td>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="kcna.png" alt="kcna" style="width: 100%; height: 100%; object-fit: contain;" />
-            </div>
+            <img src="kcna.png" alt="kcna" width="200" />
         </td>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="ccp.png" alt="ccp" style="width: 100%; height: 100%; object-fit: contain;" />
-            </div>
+            <img src="ccp.png" alt="ccp" width="200"/>
         </td>
     </tr>
     <tr>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="capm.png" alt="capm" style="width: 100%; height: 100%; object-fit: contain;" />
-            </div>
+            <img src="capm.png" alt="capm" width="200"/>
         </td>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="linux.png" alt="linux" style="width: 100%; height: 100%; object-fit: contain;" />
-            </div>
+            <img src="linux.png" alt="linux" width="200"/>
         </td>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="acc.png" alt="acc" style="width: 100%; height: 100%; object-fit: contain;" />
-                <p>Software Testing</p>
-            </div>
+            <img src="acc.png" alt="acc" width="200"/>
+            <p>Software Testing<p>
         </td>
         <td>
-            <div style="width: 200px; height: 200px; overflow: hidden;">
-                <img src="acc.png" alt="acc" style="width: 100%; height: 100%; object-fit: contain;" />
-                <p>Web Development</p>
-            </div>
+            <img src="acc.png" alt="acc" width="200"/>
+            <p>Web Development<p>
         </td>
     </tr>
 </table>
