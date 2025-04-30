@@ -27,7 +27,7 @@ Seeking the following certifications currently:
             <img src="actions.png" alt="actions" width="200" />
         </td>
         <td>
-            <img src="copilot.png" alt="copilot" width="180" />
+            <img src="copilot.png" alt="copilot" width="160" />
         </td>
         <td>
             <img src="kcna.png" alt="kcna" width="200" />
