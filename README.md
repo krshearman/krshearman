@@ -30,7 +30,7 @@ Seeking the following certifications currently:
             <img src="copilot.png" alt="copilot" width="200" />
         </td>
         <td>
-            <img src="kcna.png" alt="kcna" width="200" />![alt text](image.png)
+            <img src="kcna.png" alt="kcna" width="200" />
         </td>
         <td>
             <img src="ccp.png" alt="ccp" width="200"/>
