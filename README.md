@@ -26,7 +26,6 @@ Seeking the following certifications currently:
 | KCNA                | <img src="kcna.png" alt="kcna" width="100" height="100">             | CCP                 | <img src="ccp.png" alt="ccp" width="100" height="100">               |
 | CAPM                | <img src="capm.png" alt="capm" width="100" height="100">             | Linux               | <img src="linux.png" alt="linux" width="100" height="100">           |
 | Software Testing    | <img src="acc.png" alt="acc" width="100" height="100">               | Web Development     | <img src="acc.png" alt="acc" width="100" height="100">               |
-| Web Development     | <img src="acc.png" alt="acc" width="100" height="100">               |                     |                                                                      |
 
 ### 🌱 Interests
 **Family:** Married, 14 y.o. daughter 👧, 11 y.o. son 👦
