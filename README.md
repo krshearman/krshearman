@@ -22,7 +22,8 @@ Seeking the following certifications currently:
 | Certification       | Badge                                                                 | Certification       | Badge                                                                 |
 |---------------------|----------------------------------------------------------------------|---------------------|----------------------------------------------------------------------|
 | GitHub Foundations  | <img src="gh-foundations.png" alt="gh-foundations" width="100" height="100"> | GitHub Actions      | <img src="actions.png" alt="actions" width="100" height="100">       |
-| GitHub Copilot      | <img src="copilot.png" alt="copilot" width="100" height="100">       | KCNA                | <img src="kcna.png" alt="kcna" width="100" height="100">             |
+| GitHub Administration | <img src="gh-admin.png" alt="gh-admin" width="100" height="100">   | GitHub Copilot      | <img src="copilot.png" alt="copilot" width="100" height="100">       |
+| KCNA                | <img src="kcna.png" alt="kcna" width="100" height="100">             | CCP                 | <img src="ccp.png" alt="ccp" width="100" height="100">               |
 | CCP                 | <img src="ccp.png" alt="ccp" width="100" height="100">               | CAPM                | <img src="capm.png" alt="capm" width="100" height="100">             |
 | Linux               | <img src="linux.png" alt="linux" width="100" height="100">           | Software Testing    | <img src="acc.png" alt="acc" width="100" height="100">               |
 | Web Development     | <img src="acc.png" alt="acc" width="100" height="100">               |                     |                                                                      |
