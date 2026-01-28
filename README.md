@@ -28,7 +28,7 @@ Seeking the following certifications currently:
 | Software Testing    | <img src="acc.png" alt="acc" width="100" height="100">               | Web Development     | <img src="acc.png" alt="acc" width="100" height="100">               |
 
 ### 🌱 Interests
-**Family:** Married, 14 y.o. daughter 👧, 11 y.o. son 👦
+**Family:** Married, 14 y.o. daughter 👧, 12 y.o. son 👦
 **Hobbies:**
 - **Skiing:** 🎿
 - **Crocheting:** 🧶
