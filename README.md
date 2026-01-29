@@ -29,6 +29,7 @@ Seeking the following certifications currently:
 
 ### 🌱 Interests
 **Family:** Married, 14 y.o. daughter 👧, 12 y.o. son 👦
+
 **Hobbies:**
 - **Skiing:** 🎿
 - **Crocheting:** 🧶
