@@ -11,6 +11,7 @@ Originally educated in the humanities, I taught EFL abroad for many years 🌏. 
 ![octocat-1733936653588](https://github.com/user-attachments/assets/3b95b3cc-6027-4bf1-a742-f8761baf8e97) -->
 Seeking the following certifications currently:
 - PMI-ACP (Agile Certified Practitioner)
+- GH-600 certification
 
 ### 🛠️ Skills
 - **Languages & Frameworks:** Python, JavaScript, Java, Kotlin, PHP, HTML, CSS, Node.js
